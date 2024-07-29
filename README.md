@@ -1,6 +1,11 @@
 # IIFC-Net: A Monaural Speech Enhancement Network with High-Order Information Interaction and Feature Calibration （The article has been accepted by IEEE Signal Processing Letters）
 
 # Demo: Visit our [demo website] (https://wenbingwei.github.io) for audio samples.
+<img width="1244" alt="image" src="https://github.com/user-attachments/assets/f61b257d-8705-4918-b423-4f41ede1a7d7">
+
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/d1d1ab2a-91d5-426d-a7e0-6a4b566c2da9">
+
+![image](https://github.com/user-attachments/assets/1c80f18a-0a02-42e0-8e6d-e57597143695)
 
 
 # Result
@@ -17,6 +22,13 @@ Denoising performance comparison with other systems on the VoiceBank+DEMAND data
 | PFRNet   |   4.61   |     ——     |   ——  | 3.24 |    95    | 4.48 | 3.7  | 3.9  |
 | D<sup>2</sup>Net    |   1.13   |    36.21   | 19.78 | 3.27 |    96    | 4.63 | 3.18 | 3.92 |
 | IIFC-Net |  0.586   |    14.91   | 19.82 | 3.28 |    96    | 4.52 | 3.72 | 3.92 |
+
+
+
+<img width="976" alt="image" src="https://github.com/user-attachments/assets/42d9ab69-54e8-490f-8cfa-ac8c359e42e1">
+
+<img width="619" alt="image" src="https://github.com/user-attachments/assets/2de25aa2-22b3-47db-b9fe-6720a48f5b65">
+
 
 [1]Wei W, Hu Y, Huang H, He L. IIFC-Net: A Monaural Speech Enhancement Network with High-Order Information Interaction and Feature Calibration. IEEE Signal Processing Letters.SPL, Vol. 31, 2024.
 
